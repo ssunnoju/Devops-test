@@ -1,0 +1,2 @@
+This is third file from git nano command Adding some more information by 
+using nano command
